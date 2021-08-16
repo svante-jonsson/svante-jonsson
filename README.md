@@ -1,3 +1,3 @@
-<a href="https://github.com/SvanteJonssonSchool">
+<a href="https://github.com/SvanteJonssonITHS">
   <img src="https://raw.githubusercontent.com/svante-jonsson/svante-jonsson/main/banban.png"/>
 </a>

@@ -1,3 +1,3 @@
 <a href="https://github.com/SvanteJonssonITHS">
-  <img src="https://raw.githubusercontent.com/svante-jonsson/svante-jonsson/main/knocking.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/svante-jonsson/svante-jonsson/main/swim.gif" width="100%"/>
 </a>

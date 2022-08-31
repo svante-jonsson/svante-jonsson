@@ -1,7 +1,8 @@
-<a href="https://svantejonsson.com/">
-  <img src="https://raw.githubusercontent.com/svante-jonsson/svante-jonsson/main/swim.gif" width="100%"/>
-</a>
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+👋🏼+I'm+Svante+Jonsson!;Hi+👋🏼+I'm+https%3A%2F%2Fsvantejonsson.com)](https://svantejonsson.com/)
 
-### Recent Activity
-![](https://img.shields.io/endpoint?url=https://wakaspace.eu/api/compat/shields/v1/svante/interval:today&style=for-the-badge&logo=WakaTime&color=748fac&label=Today&labelColor=2e3440&logoWidth=25)
-![](https://img.shields.io/endpoint?url=https://wakaspace.eu/api/compat/shields/v1/svante/interval:30_days&style=for-the-badge&logo=WakaTime&color=748fac&labelColor=2e3440&label=Last%2030days&logoWidth=25)
+### About me :information_source:
+- :office: Web/Software developer at [Plejd](https://www.plejd.com/)
+- :mortar_board: Studying Fullstack web development at [IT-Högskolan](https://www.iths.se/) in Gothenburg, Sweden :sweden:
+
+### Contact :postbox:
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)

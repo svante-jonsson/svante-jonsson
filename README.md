@@ -5,4 +5,4 @@
 - :mortar_board: Studying Fullstack web development at [IT-Högskolan](https://www.iths.se/) in Gothenburg, Sweden :sweden:
 
 ### Contact :postbox:
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/svantejonsson)

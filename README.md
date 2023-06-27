@@ -5,6 +5,7 @@
 
 ### Additional projects :computer:
 Most of my public and recent projects can be found in the [`SvanteJonssonITHS` organization](https://github.com/orgs/SvanteJonssonITHS/repositories) as they are related to my newly finished education! 
+
 #### Favorite projects
 Some of my favorite projects from my studies are:
 - [My graduation project](https://github.com/svantejonssonITHS/examensarbete) which is a journey planner and deparutre board using the SL (Stockholms Lokaltrafik) API

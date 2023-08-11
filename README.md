@@ -1,8 +1,5 @@
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+👋🏼+I'm+Svante+Jonsson!)]()
 
-### About me :information_source:
-:office: Web/Software developer at [Plejd](https://www.plejd.com/)
-
 ### Additional projects :computer:
 Most of my public and recent projects can be found in the [`SvanteJonssonITHS` organization](https://github.com/orgs/SvanteJonssonITHS/repositories) as they are related to my newly finished education! 
 
